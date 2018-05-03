@@ -5,7 +5,7 @@
   "author": "Keith Horwood",
   "main": "module.js",
   "engines": {
-    "iojs": "2.2.1"
+    "node": ">4"
   },
   "dependencies": {},
   "devDependencies": {
